@@ -7,3 +7,4 @@ Parte 2
 3. Se agrego una caja de texto en cada uno de los elementos que tienen la clase c2La diferencia entre innerTex e innerHtml  que innerHtml te permite agregar etiquetas dentro del id obtenido por la variable y el otro solo te añade texto
 Parte 3
 Al hacer el evento click en el boton se procede a obtener el valor de la caja de texto por medio de la propiedad value y luego por medio de la propiedad innerText se pasa el valor a el contenedor showMsj
+Que value obtiene el valor del elemento y innerTex solo agrega pero no obtiene
